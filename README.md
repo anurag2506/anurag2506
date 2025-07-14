@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Anurag E Prasad</h1>
-<h3 align="center">🚀 Final-Year B.Tech @ IIT Indore | AI • NLP • CV Enthusiast</h3>
+<h3 align="center">B.Tech @ IIT Indore | AI • NLP • CV Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:anurageprasad25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -39,7 +39,7 @@
 
 ### 💡 Highlights
 - 🏆 Selected for **IITI SoC '24**: GANs for image colorization
-- 📄 Building a full-stack **AI-powered startup dashboard**
+- 🧠 SIH Finalist 
 - 🧑‍💻 Actively contributing to AI x Product-driven projects
 
 ---

@@ -10,9 +10,9 @@
 ---
 
 ### 🔭 What I'm Working On
-- 🧠 **Alzheimer’s Detection using Deep Learning** (ResNet + ViT + Grad-CAM)
-- 📈 **Startup Intelligence Platform** — NLP pipelines + Supabase + scraping
-- 🧪 Exploring **LLMs** + **Agentic Workflows** for automating funding reports
+- 🧠 **Youtube Video Summarizer** using CLIP Embeddings and Whisper
+- 📈 **Custom PPT Generator** — Using Diffusion to generate slides based on user preferences.
+- 🧪 Exploring **Fine-tuning methods** + **Distilling models**
 
 ---
 

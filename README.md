@@ -12,7 +12,7 @@
 ### 🔭 What I'm Working On
 - 🧠 **Youtube Video Summarizer** using CLIP Embeddings and Whisper
 - 📈 **Custom PPT Generator** — Using Diffusion to generate slides based on user preferences.
-- 🧪 Exploring **Fine-tuning methods** + **Distilling models**
+- 🧪 Learning **Fine-tuning methods** + **Model Distillations**
 
 ---
 

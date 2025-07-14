@@ -1,18 +1,55 @@
-### Hi there 👋 I'm Anurag E Prasad
+<h1 align="center">Hi there 👋, I'm Anurag E Prasad</h1>
+<h3 align="center">🚀 Final-Year B.Tech @ IIT Indore | AI • NLP • CV Enthusiast</h3>
 
-🚀 I’m a Final-Year B.Tech student at IIT Indore, passionate about AI, NLP, and Computer Vision.
+<p align="center">
+  <a href="mailto:anurageprasad25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/anurag-eshwar-prasad-796b25314"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/anurag2506"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-🔭 Currently working on:
-- 🎓 Alzheimer’s Detection using Deep Learning
-- 📊 Startup Funding Intelligence with NLP & Supabase
+---
 
-🛠️ Tech Stack:
-`Python` `PyTorch` `React` `Next.js` `Supabase` `PostgreSQL` `GitHub Actions`
+### 🔭 What I'm Working On
+- 🧠 **Alzheimer’s Detection using Deep Learning** (ResNet + ViT + Grad-CAM)
+- 📈 **Startup Intelligence Platform** — NLP pipelines + Supabase + scraping
+- 🧪 Exploring **LLMs** + **Agentic Workflows** for automating funding reports
 
-📈 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag2506&show_icons=true&theme=radical)
+---
 
-📫 Reach me at:
-- 📧 anurageprasad25@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/anurag-eshwar-prasad-796b25314)
-- 🧠 [Portfolio (if you have one)](https://your-website.com)
+### 🛠️ Tech Stack
+
+#### 🚀 Languages & Frameworks
+`Python` `C++` `GO`  
+`PyTorch` `JAX` `Scikit-Learn`
+
+#### 🧰 Tools & Platforms
+`Supabase` `PostgreSQL` `GitHub Actions`  
+`Docker` `Streamlit` 
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag2506&show_icons=true&theme=radical" alt="Anurag's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag2506&theme=radical" height="165" />
+</p>
+
+---
+
+### 💡 Highlights
+- 🏆 Selected for **IITI SoC '24**: GANs for image colorization
+- 📄 Building a full-stack **AI-powered startup dashboard**
+- 🧑‍💻 Actively contributing to AI x Product-driven projects
+
+---
+
+### 🤝 Let’s Connect
+
+- 📧 anurageprasad25@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/anurag-eshwar-prasad-796b25314)  
+- 🌐 Portfolio: [Coming Soon!]
+
+---
+
+> “Consistency beats intensity. One project at a time.” – Anurag

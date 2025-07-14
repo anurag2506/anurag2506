@@ -48,8 +48,5 @@
 
 - 📧 anurageprasad25@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/anurag-eshwar-prasad-796b25314)  
-- 🌐 Portfolio: [Coming Soon!]
 
 ---
-
-> “Consistency beats intensity. One project at a time.” – Anurag

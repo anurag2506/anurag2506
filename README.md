@@ -38,7 +38,6 @@
 ---
 
 ### 💡 Highlights
-- 🏆 Gold medal **IITI SoC '24**: GANs for image colorization
 - 🧠 SIH 2024' Finalist 
 - 🧑‍💻 Actively contributing to AI x Product-driven projects
 

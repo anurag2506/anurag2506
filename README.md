@@ -9,13 +9,6 @@
 
 ---
 
-### 🔭 What I'm Working On
-- 🧠 **Youtube Video Summarizer** using CLIP Embeddings and Whisper
-- 📈 **Custom PPT Generator** — Using Diffusion to generate slides based on user preferences.
-- 🧪 Learning **Fine-tuning methods** + **Model Distillations**
-
----
-
 ### 🛠️ Tech Stack
 
 #### 🚀 Languages & Frameworks
@@ -37,11 +30,6 @@
 
 ---
 
-### 💡 Highlights
-- 🧠 SIH 2024' Finalist 
-- 🧑‍💻 Actively contributing to AI x Product-driven projects
-
----
 
 ### 🤝 Let’s Connect
 

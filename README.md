@@ -21,15 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag2506&show_icons=true&theme=radical" alt="Anurag's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag2506&theme=radical" height="165" />
-</p>
-
----
-
 
 ### 🤝 Let’s Connect
 
